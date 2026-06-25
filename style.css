@@ -417,8 +417,8 @@ section {
 
 /* Footer */
 .footer {
-    padding-top: 75px;
-    background: var(--primary);
+    padding: 50px 0;
+    background: var(--secondary);
     color: white;
 }
 
@@ -442,11 +442,6 @@ section {
 
 .footer h4 {
     margin-bottom: 15px;
-}
-
-.footer-credits {
-    padding: 50px;
-    text-align: center;
 }
 
 /* Reveal */
