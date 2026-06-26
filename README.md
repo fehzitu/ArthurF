@@ -1,8 +1,5 @@
-# Performance Portfolio Landing Page
+# Portfolio
 A modern, responsive landing page built with pure HTML, CSS, and JavaScript. Designed to showcase web development services with a strong focus on conversion, performance, and clean user experience.
-
-## Preview
-This project simulates a professional portfolio/agency landing page aimed at attracting local businesses looking for modern, high-performance websites.
 
 ## Features
 - Responsive layout
